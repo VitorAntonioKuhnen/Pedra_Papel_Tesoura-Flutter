@@ -1,4 +1,4 @@
-# flutter_application_1
+# Jogo de Pedra Papel Tesoura
 
 A new Flutter project.
 
